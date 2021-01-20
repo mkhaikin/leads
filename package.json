@@ -1,0 +1,24 @@
+{
+  "name": "leads",
+  "version": "1.0.0",
+  "description": "express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkhaikin/leads.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "sql"
+  ],
+  "author": "Michael Khaikin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkhaikin/leads/issues"
+  },
+  "homepage": "https://github.com/mkhaikin/leads#readme"
+}
